@@ -1,0 +1,7 @@
+/node_modules
+.env
+.next
+.DS_Store
+npm-debug.log
+ramznet/node_modules
+ramznet/.next
